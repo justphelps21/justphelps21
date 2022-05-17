@@ -1,0 +1,3 @@
+﻿  Search.cpp
+c:\users\justp\onedrive\cs 2420 projects\searchp4\searchp4\search.cpp(79): warning C4715: 'Search::RecursiveBinarySearchHelper': not all control paths return a value
+  SearchP4.vcxproj -> C:\Users\justp\OneDrive\CS 2420 Projects\SearchP4\Debug\SearchP4.exe
